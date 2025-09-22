@@ -1,0 +1,22 @@
+.mmm-ideas {
+  padding: 0.5rem 1rem;
+  text-align: left;
+}
+
+.mmm-ideas.empty {
+  opacity: 0.6;
+  font-style: italic;
+}
+
+.mmm-ideas .idea {
+  font-size: 1.4rem;
+  line-height: 1.5;
+}
+
+.mmm-ideas .source {
+  margin-top: 0.4rem;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #888;
+}

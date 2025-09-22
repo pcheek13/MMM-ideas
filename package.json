@@ -1,0 +1,26 @@
+{
+  "name": "mmm-ideas",
+  "version": "0.1.0",
+  "description": "MagicMirror² module that rotates through idea prompts for inspiration and planning.",
+  "main": "MMM-ideas.js",
+  "scripts": {
+    "test": "echo 'No automated tests configured yet.'"
+  },
+  "keywords": [
+    "magicmirror",
+    "magicmirror2",
+    "module",
+    "ideas",
+    "productivity"
+  ],
+  "author": "MMM-ideas contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/MMM-ideas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/MMM-ideas/issues"
+  },
+  "homepage": "https://github.com/your-username/MMM-ideas#readme"
+}

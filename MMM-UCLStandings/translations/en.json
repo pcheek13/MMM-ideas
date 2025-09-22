@@ -1,0 +1,14 @@
+{
+  "LOADING": "Loading Champions League standings...",
+  "ERROR": "Error",
+  "NO_DATA": "No standings available",
+  "TEAM": "Team",
+  "MP": "MP",
+  "W": "W",
+  "D": "D",
+  "L": "L",
+  "GF": "GF",
+  "GA": "GA",
+  "GD": "GD",
+  "PTS": "Pts"
+}

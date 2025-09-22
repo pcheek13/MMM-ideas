@@ -1,0 +1,15 @@
+{
+  "name": "mmm-uclstandings",
+  "version": "0.1.0",
+  "description": "MagicMirror² module scaffold for UEFA Champions League standings",
+  "main": "MMM-UCLStandings.js",
+  "author": "MMM-UCLStandings Contributors",
+  "license": "MIT",
+  "keywords": [
+    "magicmirror",
+    "module",
+    "scaffold",
+    "uefa",
+    "champions league"
+  ]
+}

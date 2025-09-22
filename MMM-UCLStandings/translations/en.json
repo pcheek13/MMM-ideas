@@ -1,0 +1,7 @@
+{
+  "LOADING": "Loading sample standings...",
+  "ERROR": "Error",
+  "NO_DATA": "Waiting for standings data",
+  "UNKNOWN_TEAM": "Unknown team",
+  "UNKNOWN_ERROR": "Unexpected error"
+}

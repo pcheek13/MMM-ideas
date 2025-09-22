@@ -1,0 +1,45 @@
+.ucl-standings-wrapper {
+  text-align: left;
+}
+
+.ucl-table {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ucl-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+}
+
+.ucl-row:nth-child(odd) {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.ucl-row:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.ucl-position {
+  font-weight: 700;
+  margin-right: 0.75rem;
+  min-width: 1.5rem;
+}
+
+.ucl-team {
+  flex: 1 1 auto;
+  font-weight: 500;
+}
+
+.ucl-points {
+  font-variant-numeric: tabular-nums;
+  margin-left: 0.75rem;
+}
+
+.ucl-error {
+  color: #ff7043;
+}
